@@ -1,0 +1,16 @@
+C:\Users\ragim\source\repos\20.10.21\20.10.21\obj\Debug\net5.0\20.10.21.csproj.AssemblyReference.cache
+C:\Users\ragim\source\repos\20.10.21\20.10.21\obj\Debug\net5.0\20.10.21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragim\source\repos\20.10.21\20.10.21\obj\Debug\net5.0\20.10.21.AssemblyInfoInputs.cache
+C:\Users\ragim\source\repos\20.10.21\20.10.21\obj\Debug\net5.0\20.10.21.AssemblyInfo.cs
+C:\Users\ragim\source\repos\20.10.21\20.10.21\obj\Debug\net5.0\20.10.21.csproj.CoreCompileInputs.cache
+C:\Users\ragim\source\repos\20.10.21\20.10.21\bin\Debug\net5.0\20.10.21.exe
+C:\Users\ragim\source\repos\20.10.21\20.10.21\bin\Debug\net5.0\20.10.21.deps.json
+C:\Users\ragim\source\repos\20.10.21\20.10.21\bin\Debug\net5.0\20.10.21.runtimeconfig.json
+C:\Users\ragim\source\repos\20.10.21\20.10.21\bin\Debug\net5.0\20.10.21.runtimeconfig.dev.json
+C:\Users\ragim\source\repos\20.10.21\20.10.21\bin\Debug\net5.0\20.10.21.dll
+C:\Users\ragim\source\repos\20.10.21\20.10.21\bin\Debug\net5.0\ref\20.10.21.dll
+C:\Users\ragim\source\repos\20.10.21\20.10.21\bin\Debug\net5.0\20.10.21.pdb
+C:\Users\ragim\source\repos\20.10.21\20.10.21\obj\Debug\net5.0\20.10.21.dll
+C:\Users\ragim\source\repos\20.10.21\20.10.21\obj\Debug\net5.0\ref\20.10.21.dll
+C:\Users\ragim\source\repos\20.10.21\20.10.21\obj\Debug\net5.0\20.10.21.pdb
+C:\Users\ragim\source\repos\20.10.21\20.10.21\obj\Debug\net5.0\20.10.21.genruntimeconfig.cache
